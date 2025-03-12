@@ -1,8 +1,5 @@
 # 🥁 Achille_Pantidis 
 
-
-**`Junior Data Scientist`**
-
 🎓**EDUCATION**
 
 ▪️ Bachelor's in Physics
