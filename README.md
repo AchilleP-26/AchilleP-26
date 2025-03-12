@@ -5,10 +5,9 @@
 
 
 🎓
-  
-▪️ Bachelor's in Physics
-
-▪️ Data Engineering Training at Technofuturtic
+>▪️ Bachelor's in Physics
+>
+>▪️ Data Engineering Training at Technofuturtic
 
 
 💡
@@ -34,6 +33,8 @@
 
 
 
-
-
+🎓  
+> **Education**  
+> ▪️ Bachelor's in Physics  
+> ▪️ Data Engineering Training at Technofuturtic  
 
