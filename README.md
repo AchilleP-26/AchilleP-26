@@ -3,7 +3,6 @@
 
 **`Junior Data Scientist`**
 
-
 🎓**EDUCATION**
 
 ▪️ Bachelor's in Physics
